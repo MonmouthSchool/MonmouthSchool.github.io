@@ -4,7 +4,7 @@ title: Schedule for Programming For Biologists
 redirect_from: /schedule-intro/
 ---
 
-### Week 1: Expressions, Types, Variables, Errors, Functions
+### Set 1: Expressions, Types, Variables, Errors, Functions
 
 #### Reading:
 
@@ -14,7 +14,7 @@ redirect_from: /schedule-intro/
 
 [Assignment 1](/assignments/programming-1)
 
-### Week 2: Strings, Methods
+### Set 2: Strings, Methods
 
 #### Reading:
 
@@ -22,7 +22,7 @@ redirect_from: /schedule-intro/
 
 [Assignment 2](/assignments/programming-2)
 
-### Week 3: Functions, for loops, lists
+### Set 3: Functions, for loops, lists
 
 #### Reading:
 
@@ -31,7 +31,7 @@ redirect_from: /schedule-intro/
 
 [Assignment 3](/assignments/programming-3)
 
-### Week 4: Making choices, Problem decomposition
+### Set 4: Making choices, Problem decomposition
 
 #### Reading:
 
@@ -42,7 +42,7 @@ Additional Material:
 
 [Assignment 4](/assignments/programming-4)
 
-### Week 5: Working with tabular data, Debugging, Style
+### Set 5: Working with tabular data, Debugging, Style
 
 #### Reading:
 
@@ -50,7 +50,7 @@ Additional Material:
   
 [Assignment 5](/assignments/programming-5)
 
-### Week 6: Graphing, Style, Program Design
+### Set 6: Graphing, Style, Program Design
 
 #### Reading:
 
@@ -58,7 +58,7 @@ Additional Material:
 
 [Assignment 6](/assignments/programming-6)
 
-### Week 7: Statistics
+### Set 7: Statistics
 
 #### Reading:
 
