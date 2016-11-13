@@ -2,7 +2,9 @@
 layout: default
 redirect_from: /courses/
 ---
-These courses aim to teach science students how to use computers more effectively to make their research easier. It avoids much theory taught in introductory computer science classes, covering more of the practical side of programming necessary for conducting research. By learning how to get the computer to do your work for you, you will be able to do more science faster. These will teach you how to write simple computer programs in Python, automate data analysis, apply these tools to address biological questions, learn and understand programming concepts that will help with using other languages.
+These courses aim to teach science students how to use computers more effectively to make their research easier. It avoids much theory taught in introductory computer science classes, covering more of the practical side of programming necessary for conducting research. 
+
+By learning how to get the computer to do your work for you, you will be able to do more science faster. These will teach you how to write simple computer programs in Python, automate data analysis, apply these tools to address biological questions, learn and understand programming concepts that will help with using other languages.  Start here:
 
 * [Introduction to Programming for Science Students](/programming)
 
