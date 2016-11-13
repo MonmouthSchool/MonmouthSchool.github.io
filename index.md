@@ -2,11 +2,9 @@
 layout: default
 redirect_from: /courses/
 ---
+These courses aim to teach science students how to use computers more effectively to make their research easier. It avoids much theory taught in introductory computer science classes, covering more of the practical side of programming necessary for conducting research. 
 
 * [Introduction to Programming for Biologists](/programming)
-
-The goal of these courses is to teach science students how to use computers more
-effectively to make their research easier. It avoids much theory taught in introductory computer science classes, covering more of the practical side of programming necessary for conducting research. 
 
 These further courses extend the skills covered in the Introduction:
 
