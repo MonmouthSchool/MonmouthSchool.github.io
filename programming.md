@@ -7,8 +7,10 @@ redirect_from: /introduction-programming-and-database-management-biologists/
 Computers are increasingly essential to the study of all aspects
 of biology. Basic computer programming is now required for everything from
 accessing and managing data, to statistical analysis, to simulation and
-numerical modeling. This course will provide an introduction to programming
-targeted towards biologists, and will take a student-centered, active learning,
+numerical modeling. 
+
+This course provides an introduction to programming
+targeted towards science students, taking a student-centered, active learning,
 approach to teaching this material. 
 
 * [Schedule](/syllabus/programming-schedule)
