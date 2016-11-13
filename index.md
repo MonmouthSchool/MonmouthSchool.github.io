@@ -9,7 +9,6 @@ These courses aim to teach science students how to use computers more effectivel
 These further courses extend the skills covered in the Introduction:
 
 * [Introduction to Database Management for Science Students](/databases)
-* [Computational Biology Research Project]()
 * [Advanced Computing for Science Students](/advanced)
 
 To tackle the challenge of training biologists to more effectively use
