@@ -2,6 +2,7 @@
 layout: page
 title: Computer Setup
 ---
+These are the basic software requirements for each course.
 
 ### Programming
 
