@@ -4,13 +4,13 @@ redirect_from: /courses/
 ---
 These courses aim to teach science students how to use computers more effectively to make their research easier. It avoids much theory taught in introductory computer science classes, covering more of the practical side of programming necessary for conducting research. 
 
-* [Introduction to Programming for Biologists](/programming)
+* [Introduction to Programming for Science Students](/programming)
 
 These further courses extend the skills covered in the Introduction:
 
-* [Introduction to Database Management for Biologists](/databases)
+* [Introduction to Database Management for Science Students](/databases)
 * [Computational Biology Research Project]()
-* [Advanced Computing for Biologists](/advanced)
+* [Advanced Computing for Science Students](/advanced)
 
 To tackle the challenge of training biologists to more effectively use
 computational resources these course actively integrate
