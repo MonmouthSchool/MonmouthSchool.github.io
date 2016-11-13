@@ -1,10 +1,10 @@
-## Programming for Biologists
+## Programming for Science Students
 
 Introduction to programming using biological examples. Students learn to write
 programs, automate data analysis, and produce scientific results using Python.
 
 
-## Database Management for Biologists
+## Database Management for Science Students
 
 Introduction to database management using biological examples. Students learn to
 design databases, make data entry easy and ensure the quality of entered data,
