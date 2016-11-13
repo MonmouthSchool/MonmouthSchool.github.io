@@ -3,7 +3,6 @@ layout: page
 title: Schedule for Programming For Biologists
 redirect_from: /schedule-intro/
 ---
-
 ### Set 1: Expressions, Types, Variables, Errors, Functions
 
 #### Reading:
