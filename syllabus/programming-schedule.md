@@ -7,7 +7,7 @@ redirect_from: /schedule-intro/
 
 #### Reading:
 
-* [SWC Novice Python: Analyzing Patient Data](http://swcarpentry.github.io/python-novice-inflammation/01-numpy/)
+* [SWC Novice Python: Analyzing Patient Data](http://swcarpentry.github.io/python-novice-inflammation/01-numpy)
     * [Associated data](https://raw.githubusercontent.com/swcarpentry/bc/master/novice/python/inflammation-01.csv) if you want to experiment with it (not required)
 * [Errors](http://nbviewer.ipython.org/urls/github.com/ethanwhite/progbio/raw/master/ipynbs/errors.ipynb)
 
