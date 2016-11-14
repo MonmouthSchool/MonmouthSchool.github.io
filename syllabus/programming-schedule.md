@@ -11,7 +11,7 @@ redirect_from: /schedule-intro/
     * [Associated data](https://raw.githubusercontent.com/swcarpentry/bc/master/novice/python/inflammation-01.csv) if you want to experiment with it (not required)
 * [Errors](http://nbviewer.ipython.org/urls/github.com/ethanwhite/progbio/raw/master/ipynbs/errors.ipynb)
 
-[Assignment 1](/assignments/programming-1)
+[Assignment Exercises 1](/assignments/programming-1)
 
 ### Set 2: Strings, Methods
 
@@ -19,7 +19,7 @@ redirect_from: /schedule-intro/
 
 * [Strings](http://nbviewer.ipython.org/urls/github.com/ethanwhite/progbio/raw/master/ipynbs/strings.ipynb)
 
-[Assignment 2](/assignments/programming-2)
+[Assignment Exercises 2](/assignments/programming-2)
 
 ### Set 3: Functions, for loops, lists
 
@@ -28,7 +28,7 @@ redirect_from: /schedule-intro/
 * [SWC Novice Python: Creating Functions](http://software-carpentry.org/v5/novice/python/02-func.html) (M)
 * [SWC Novice Python: Analyzing Multiple Data Sets](http://software-carpentry.org/v5/novice/python/03-loop.html) (W)
 
-[Assignment 3](/assignments/programming-3)
+[Assignment Exercises 3](/assignments/programming-3)
 
 ### Set 4: Making choices, Problem decomposition
 
@@ -39,7 +39,7 @@ redirect_from: /schedule-intro/
 Additional Material: 
 [Problem decomposition](http://programmingforbiologists.org/material/problem-decomposition)
 
-[Assignment 4](/assignments/programming-4)
+[Assignment Exercises 4](/assignments/programming-4)
 
 ### Set 5: Working with tabular data, Debugging, Style
 
@@ -47,7 +47,7 @@ Additional Material:
 
 * [Pandas - working with data they way your brain wants](http://nbviewer.ipython.org/urls/github.com/ethanwhite/progbio/raw/master/ipynbs/pandas.ipynb)
   
-[Assignment 5](/assignments/programming-5)
+[Assignment Exercises 5](/assignments/programming-5)
 
 ### Set 6: Graphing, Style, Program Design
 
@@ -55,7 +55,7 @@ Additional Material:
 
 * [Graphs](http://nbviewer.ipython.org/urls/github.com/ethanwhite/progbio/raw/master/ipynbs/matplotlib.ipynb)
 
-[Assignment 6](/assignments/programming-6)
+[Assignment Exercises 6](/assignments/programming-6)
 
 ### Set 7: Statistics
 
@@ -63,4 +63,4 @@ Additional Material:
 
 * [Statistics](http://nbviewer.ipython.org/urls/github.com/ethanwhite/progbio/raw/master/ipynbs/statistics.ipynb)
 
-[Assignment 7](/assignments/programming-7)
+[Assignment Exercises 7](/assignments/programming-7)
