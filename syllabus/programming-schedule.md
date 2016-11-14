@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Schedule for Programming For Biologists
+title: Schedule for Programming For Science Students
 redirect_from: /schedule-intro/
 ---
 ### Set 1: Expressions, Types, Variables, Errors, Functions
