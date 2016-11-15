@@ -2,9 +2,11 @@
 layout: default
 redirect_from: /courses/
 ---
-Here science students can learn how to use computers more effectively to make their research easier. By learning how to get the computer to do your work for you, you will be able to do more science faster. Learn how to write simple computer programs in Python, automate data analysis, apply these tools to address biological questions, and learn and understand programming concepts that will help with using other languages.  
+Here science students can learn how to use computers more effectively to make their research easier. By learning how to get the computer to do your work for you, you will be able to do more science faster. 
 
-Start here:
+Write simple computer programs, automate data analysis, apply these tools to address biological questions, and learn and understand programming concepts that will help with using other languages.  
+
+Start here with the Intro. Read the intro 'Reading' then do the Assignment Exercises in each Set:
 
 * [Introduction to Programming for Science Students](/programming)
 
