@@ -3,6 +3,10 @@ layout: page
 title: Schedule for Programming For Science Students
 redirect_from: /schedule-intro/
 ---
+## Getting Started:
+With each Set below, browse through the Reading, then use what you've read to complete its Assignment Exercises. 
+
+
 ### Set 1: Expressions, Types, Variables, Errors, Functions
 
 #### Reading:
