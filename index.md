@@ -6,7 +6,7 @@ Here science students can learn how to use computers more effectively to make th
 
 Write simple computer programs, automate data analysis, apply these tools to address biological questions, and learn and understand programming concepts that will help with using other languages.  
 
-Start here with the Intro. In each Set brows the 'Reading', then do the Assignment Exercises in each Set:
+Start here with the Intro. In each Set browse the 'Reading' to understand examples, then do the Assignment Exercises in each Set:
 
 
 * [Introduction to Programming for Science Students](/programming)
